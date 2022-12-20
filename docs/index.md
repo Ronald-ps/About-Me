@@ -25,3 +25,5 @@ O que eu mais interessante na programação é a abstração de processos. Eu go
 - Shell Script
 - Construir extensões pro VS Code
 - Fazer deploys de site com uma estrutura baseada em containers
+
+*Essa apresentação está em criação (nem eu sei o que vai sair disso)*
